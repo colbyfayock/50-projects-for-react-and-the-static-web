@@ -1,1 +1,1 @@
-# 50-projects-for-react-and-the-static-web
+# 50 Projects for React and the Static Web
