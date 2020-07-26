@@ -1,5 +1,7 @@
 # 50 Projects for React and the Static Web
 
+Get the [FREE PDF here](https://gum.co/YtklY): https://gum.co/YtklY
+
 * [Business & Real-World](Business%20%26%20Real-World)
 * [Fun & Interesting](Fun%20%26%20Interesting)
 * [Personal & Portfolio](Personal%20%26%20Portfolio)
