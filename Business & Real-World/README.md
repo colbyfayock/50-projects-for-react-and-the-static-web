@@ -18,3 +18,14 @@
 * [faker.js](https://github.com/Marak/Faker.js) (github.com)
 
 ### Tutorials
+
+## Ecommerce Store
+
+### Toolbox
+* [Stripe](https://stripe.com/) (stripe.com)
+* [use-shopping-cart](https://useshoppingcart.com/) (useshoppingcart.com)
+
+### Tutorials
+* [Learn How to Accept Money on Jamstack Sites in 38 Minutes](https://www.netlify.com/blog/2020/04/13/learn-how-to-accept-money-on-jamstack-sites-in-38-minutes/) (netlify.com)
+* [E-Commerce for React Developers [w/ Gatsby Tutorial]](https://snipcart.com/blog/react-ecommerce-gatsby-tutorial) (snipcart.com)
+* [Learn to Add Apple Pay and Google Pay to React Websites](https://www.netlify.com/blog/2020/05/21/learn-to-add-apple-pay-and-google-pay-to-react-websites/) (netlify.com)
