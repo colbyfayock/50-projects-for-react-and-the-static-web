@@ -29,3 +29,13 @@
 * [Learn How to Accept Money on Jamstack Sites in 38 Minutes](https://www.netlify.com/blog/2020/04/13/learn-how-to-accept-money-on-jamstack-sites-in-38-minutes/) (netlify.com)
 * [E-Commerce for React Developers [w/ Gatsby Tutorial]](https://snipcart.com/blog/react-ecommerce-gatsby-tutorial) (snipcart.com)
 * [Learn to Add Apple Pay and Google Pay to React Websites](https://www.netlify.com/blog/2020/05/21/learn-to-add-apple-pay-and-google-pay-to-react-websites/) (netlify.com)
+
+## Website Admin
+
+### Toolbox
+* [Auth0](https://auth0.com/) (auth0.com)
+* [Auth0 React SDK](https://auth0.com/docs/libraries/auth0-react) (auth0.com)
+
+### Tutorials
+* [Authenticating Your First React App](https://auth0.com/blog/authenticating-your-first-react-app/) (auth0.com)
+* [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications) (kentcdodds.com)
