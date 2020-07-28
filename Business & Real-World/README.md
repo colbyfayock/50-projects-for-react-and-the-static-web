@@ -39,3 +39,14 @@
 ### Tutorials
 * [Authenticating Your First React App](https://auth0.com/blog/authenticating-your-first-react-app/) (auth0.com)
 * [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications) (kentcdodds.com)
+
+## Metrics Dashboard
+
+### Toolbox
+* [Chart.js](https://www.chartjs.org/) (chartjs.org)
+* [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) (github.com)
+* [Marketstack](https://marketstack.com/) (marketstack.com)
+
+
+### Tutorials
+* [Creating a dashboard with React and Chart.js](https://www.createwithdata.com/react-chartjs-dashboard/) (createwithdata.com)
