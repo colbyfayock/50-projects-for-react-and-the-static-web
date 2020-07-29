@@ -20,3 +20,11 @@
 * [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/) (freecodecamp.org)
 * [How to add Coronavirus (COVID-19) case statistics to your React map dashboard with Gatsby](https://www.freecodecamp.org/news/how-to-add-coronavirus-covid-19-case-statistics-to-your-map-dashboard-in-gatsby-and-react-leaflet/) (freecodecamp.org)
 * [Mapping with React Leaflet](https://egghead.io/playlists/mapping-with-react-leaflet-e0e0?af=atzgap) (egghead.io)
+
+## Pokédex
+
+### Toolbox
+* [PokéAPI](https://pokeapi.co/)
+
+### Tutorials
+* [Source and Create Nodes with Data from an API in Gatsby to Create a Pokemon Pokedex](https://egghead.io/playlists/source-and-create-nodes-with-data-from-an-api-in-gatsby-to-create-a-pokemon-pokedex-5e28?af=atzgap)
