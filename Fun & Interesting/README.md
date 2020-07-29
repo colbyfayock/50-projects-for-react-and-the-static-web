@@ -50,3 +50,13 @@ Know of one? Let me know!
 * [How to Create a Summer Road Trip Mapping App with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-summer-road-trip-mapping-app-with-gatsby-and-leaflet/) (freecodecamp.org)
 * [How to set up a custom Mapbox basemap style with React Leaflet and Leaflet Gatsby Starter](https://www.colbyfayock.com/2020/04/how-to-set-up-a-custom-mapbox-basemap-style-with-react-leaflet-and-leaflet-gatsby-starter) (colbyfayock.com)
 * [Mapping with React Leaflet](https://egghead.io/playlists/mapping-with-react-leaflet-e0e0?af=atzgap) (egghead.io)
+
+## Musical Instrument
+
+### Toolbox
+* [React HotKeys](https://github.com/greena13/react-hotkeys) (github.com)
+
+### Tutorials
+* [Building a Piano with React Hooks](https://dev.to/ganeshmani/building-a-piano-with-react-hooks-3mih) (dev.to)
+* [How to Build a Piano Keyboard Using Vanilla JavaScript](https://www.freecodecamp.org/news/javascript-piano-keyboard/) (freecodecamp.org)
+* [Building a piano with tone.js!](https://dev.to/shimphillip/building-a-piano-with-tone-js-5c2f) (dev.to)
