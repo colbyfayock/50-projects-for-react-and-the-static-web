@@ -60,3 +60,13 @@ Know of one? Let me know!
 * [Building a Piano with React Hooks](https://dev.to/ganeshmani/building-a-piano-with-react-hooks-3mih) (dev.to)
 * [How to Build a Piano Keyboard Using Vanilla JavaScript](https://www.freecodecamp.org/news/javascript-piano-keyboard/) (freecodecamp.org)
 * [Building a piano with tone.js!](https://dev.to/shimphillip/building-a-piano-with-tone-js-5c2f) (dev.to)
+
+
+## Community Chat Bot
+
+### Toolbox
+* [Discord Developer Portal](https://discord.com/developers)
+
+### Tutorials
+* [Create a Discord bot under 15 minutes](https://thomlom.dev/create-a-discord-bot-under-15-minutes/) (thomlom.dev)
+* [Building and deploying a Discord bot with Docker, Digital Ocean, and discord.js](https://www.christopherbiscardi.com/building-and-deploying-a-discord-bot-with-docker-digital-ocean-and-discord-js) (christopherbiscardi.com)
