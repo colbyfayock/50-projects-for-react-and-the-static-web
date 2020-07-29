@@ -24,15 +24,29 @@
 ## Pokédex
 
 ### Toolbox
-* [PokéAPI](https://pokeapi.co/)
+* [PokéAPI](https://pokeapi.co/) (pokeapi.co)
 
 ### Tutorials
-* [Source and Create Nodes with Data from an API in Gatsby to Create a Pokemon Pokedex](https://egghead.io/playlists/source-and-create-nodes-with-data-from-an-api-in-gatsby-to-create-a-pokemon-pokedex-5e28?af=atzgap)
+* [Source and Create Nodes with Data from an API in Gatsby to Create a Pokemon Pokedex](https://egghead.io/playlists/source-and-create-nodes-with-data-from-an-api-in-gatsby-to-create-a-pokemon-pokedex-5e28?af=atzgap) (egghead.io)
 
 ## Video Gallery
 
 ### Toolbox
-* [YouTube API](https://developers.google.com/youtube/v3)
-* [react-youtube](https://github.com/tjallingt/react-youtube)
+* [YouTube API](https://developers.google.com/youtube/v3) (developers.google.com)
+* [react-youtube](https://github.com/tjallingt/react-youtube) (github.com)
 
 ### Tutorials
+Know of one? Let me know!
+
+## Road Trip Map
+
+### Toolbox
+* [Leaflet](https://leafletjs.com/) (leafletjs.com)
+* [React Leaflet](https://react-leaflet.js.org/) (react-leaflet.js.org)
+* [Gatsby Leaflet Starter](https://github.com/colbyfayock/gatsby-starter-leaflet) (github.com)
+* [Mapbox Studio](https://www.mapbox.com/mapbox-studio) (mapbox.com)
+
+### Tutorials
+* [How to Create a Summer Road Trip Mapping App with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-summer-road-trip-mapping-app-with-gatsby-and-leaflet/) (freecodecamp.org)
+* [How to set up a custom Mapbox basemap style with React Leaflet and Leaflet Gatsby Starter](https://www.colbyfayock.com/2020/04/how-to-set-up-a-custom-mapbox-basemap-style-with-react-leaflet-and-leaflet-gatsby-starter) (colbyfayock.com)
+* [Mapping with React Leaflet](https://egghead.io/playlists/mapping-with-react-leaflet-e0e0?af=atzgap) (egghead.io)
