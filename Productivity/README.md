@@ -1,4 +1,4 @@
-# Health & Productivity
+# Productivity
 
 ## Flash Cards
 
