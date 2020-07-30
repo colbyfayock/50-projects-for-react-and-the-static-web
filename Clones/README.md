@@ -13,3 +13,15 @@
 ### Inspiration
 * [Twitter](https://www.twitter.com) (twitter.com)
 * [react-twitter-clone](https://github.com/jalbertsr/react-twitter-clone) (github.com)
+
+## Winamp
+
+### Toolbox
+* [Spotify API](https://developer.spotify.com/documentation/web-api/) (developer.spotify.com)
+
+### Tutorials
+* [Pulling data from the Spotify API](https://www.youtube.com/watch?v=rzk8n-4gMWs) (youtube.com)
+* [Understanding OAuth with the Spotify API ](https://www.youtube.com/watch?v=f5OLDvwP-Ug) (youtube.com)
+
+### Inspiration
+* [Webamp](https://webamp.org/) (webamp.org)
