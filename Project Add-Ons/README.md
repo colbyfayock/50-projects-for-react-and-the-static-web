@@ -32,3 +32,14 @@
 * [Building Gatsby Plugin Webmentions](https://www.christopherbiscardi.com/post/building-gatsby-plugin-webmentions) (christopherbiscardi.com)
 
 ### Inspiration
+
+## Analytics
+
+### Toolbox
+* [Google Analytics](https://marketingplatform.google.com/about/analytics/) (marketingplatform.google.com)
+* [Custom Dimensions (GA)](https://support.google.com/analytics/answer/2709828?hl=en) (support.google.com)
+* [Filters (GA)](https://support.google.com/analytics/answer/1033162?hl=en) (support.google.com)
+
+### Tutorials
+* [How to Make Sense of Google Analytics and the Traffic to Your Website](https://www.colbyfayock.com/2019/09/making-sense-of-google-analytics-and-the-traffic-to-your-website) (colbyfayock.com
+* [The 8 Most Important Google Analytics Filters](https://www.lovesdata.com/blog/google-analytics-filters) (lovesdata.com)
