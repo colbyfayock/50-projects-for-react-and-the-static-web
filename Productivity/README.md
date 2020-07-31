@@ -30,3 +30,13 @@
 * [Use bookmarklets to quickly perform common web page tasks](https://support.mozilla.org/en-US/kb/bookmarklets-perform-common-web-page-tasks) (support.mozilla.org)
 
 ### Inspiration
+
+## Budget Manager
+
+### Toolbox
+* [Google Sheets API](https://developers.google.com/sheets/api) (developers.google.com)
+* [sheet2api](https://sheet2api.com/) (sheet2api.com)
+
+### Tutorials
+* [Build an Expense Tracker | React Hooks & Context API](https://www.youtube.com/watch?v=XuFDcZABiDQ) (youtube.com)
+* [The complete guide on how to use Google sheets as a database](https://codingislove.com/google-sheets-database/) (codingislove.com)
