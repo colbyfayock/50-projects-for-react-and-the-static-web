@@ -36,3 +36,13 @@
 
 ### Inspiration
 * [Talkyard](https://github.com/debiki/talkyard) (github.com)
+
+## Product Hunt
+
+### Toolbox
+* [Hasura](https://hasura.io/) (hasura.io)
+
+### Tutorials
+* [Building a Product Hunt clone app using Hasura and Next.js](https://blog.logrocket.com/building-a-product-hunt-clone-app-using-hasura-and-next-js/) (logrocket.com)
+
+### Inspiration
