@@ -40,3 +40,16 @@
 ### Tutorials
 * [Build an Expense Tracker | React Hooks & Context API](https://www.youtube.com/watch?v=XuFDcZABiDQ) (youtube.com)
 * [The complete guide on how to use Google sheets as a database](https://codingislove.com/google-sheets-database/) (codingislove.com)
+
+### Inspiration
+
+## Jigsaw Puzzle
+
+### Toolbox
+* [interact.js](https://interactjs.io/) (interactjs.io)
+
+### Tutorials
+* [Drag and Drop Elements with interact.js](https://alligator.io/js/drag-and-drop-interactjs/) (alligator.io)
+* [Html5 Jigsaw Puzzle](https://www.codeproject.com/Articles/395453/Html5-Jigsaw-Puzzle) (codeproject.com)
+
+### Inspiration
