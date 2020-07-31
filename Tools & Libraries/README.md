@@ -19,3 +19,16 @@
 ### Tutorials
 * [How to Create a Custom React Hook and Publish it to npm](https://www.freecodecamp.org/news/how-to-create-a-custom-react-hook-and-publish-it-to-npm/) (freecodecamp.org)
 * [Destructuring the Fundamentals of React Hooks](https://www.colbyfayock.com/2019/04/destructuring-the-fundamentals-of-react-hooks) (colbyfayock.com)
+
+## Framework Theme
+
+### Toolbox
+* [Gatsby Themes](https://www.gatsbyjs.org/docs/themes/) (gatsbyjs.org)
+* [Tailwind](https://tailwindcss.com/) (tailwindcss.com)
+
+### Tutorials
+* [Building a Theme](https://www.gatsbyjs.org/tutorial/building-a-theme/) (gatsbyjs.org)
+* [What is Tailwind CSS and How Can I Add it to my Website or React App?](https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/) (freecodecamp.org)
+
+### Inspiration
+* [Gatsby Tailwind Theme](https://github.com/talensjr/gatsby-theme-tailwindcss) (github.com)
