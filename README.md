@@ -9,4 +9,4 @@ Get the [FREE PDF](https://gum.co/YtklY) here: https://gum.co/YtklY
 * [Games & Puzzles](Games%20%26%20Puzzles)
 * [Tools & Libraries](Tools%20%26%20Libraries)
 * [Project Add-Ons](Project%20Add-Ons)
-* [Clones](Clones]
+* [Clones](Clones)
