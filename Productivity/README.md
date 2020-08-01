@@ -8,6 +8,9 @@
 ### Tutorials
 * [React Firebase Flashcards App Tutorial](https://www.youtube.com/watch?v=pKCAtlsn1Eo) (youtube.com)
 
+### Inspiration
+* [Pure CSS - Sticky-Stacked Cards](https://codepen.io/enbee81/full/MWKxrvP) (codepen.io)
+
 ## Mood Board
 
 ### Toolbox
