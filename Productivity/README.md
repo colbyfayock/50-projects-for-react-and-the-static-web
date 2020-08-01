@@ -42,3 +42,8 @@
 * [The complete guide on how to use Google sheets as a database](https://codingislove.com/google-sheets-database/) (codingislove.com)
 
 ### Inspiration
+
+---
+
+## Know of any other good resources?
+If you know of a great tutorial or another tool that can help others, open a pull request with a link!
