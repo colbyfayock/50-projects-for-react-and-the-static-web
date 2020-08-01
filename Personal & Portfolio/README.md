@@ -41,3 +41,8 @@
 * [Airtable and React: Create a Simple Web App](https://upmostly.com/tutorials/create-simple-web-app-react-airtable) (upmostly.com)
 
 ### Inspiration
+
+---
+
+## Know of any other good resources?
+If you know of a great tutorial or another tool that can help others, open a pull request with a link!
