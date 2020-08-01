@@ -1,6 +1,6 @@
 # 50 Projects for React and the Static Web
 
-50 projects to help you stop asking yourself what to build.
+50 project ideas to help you stop asking yourself what to build.
 
 Get the [FREE PDF](https://50reactprojects.com/) here: [50reactprojects.com](https://50reactprojects.com/)
 
