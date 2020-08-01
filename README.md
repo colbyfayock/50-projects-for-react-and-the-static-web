@@ -17,7 +17,7 @@ Get the [FREE PDF](https://50reactprojects.com/) here: [50reactprojects.com](htt
 * [Project Add-Ons](Project%20Add-Ons)
 * [Clones](Clones)
 
-## Contributions
+## Contributing
 
 Contributions are welcome with open arms! My goal is to provide an easy resource for anyone to get started building rather than getting stuck trying to come up with an idea.
 
@@ -27,9 +27,9 @@ Here are some ideas of ways you can help:
 * Documentation: is there anything on here you think is confusing, could use more clarification, or just something that could be helpful?
 
 
-## Contributors ✨
+## ✨ Contributors 
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+[emoji key](https://allcontributors.org/docs/en/emoji-key)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
