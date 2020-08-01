@@ -46,3 +46,8 @@
 * [Building a Product Hunt clone app using Hasura and Next.js](https://blog.logrocket.com/building-a-product-hunt-clone-app-using-hasura-and-next-js/) (logrocket.com)
 
 ### Inspiration
+
+---
+
+## Know of any other good resources?
+If you know of a great tutorial or another tool that can help others, open a pull request with a link!
