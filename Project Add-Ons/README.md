@@ -43,3 +43,8 @@
 ### Tutorials
 * [How to Make Sense of Google Analytics and the Traffic to Your Website](https://www.colbyfayock.com/2019/09/making-sense-of-google-analytics-and-the-traffic-to-your-website) (colbyfayock.com
 * [The 8 Most Important Google Analytics Filters](https://www.lovesdata.com/blog/google-analytics-filters) (lovesdata.com)
+
+---
+
+## Know of any other good resources?
+If you know of a great tutorial or another tool that can help others, open a pull request with a link!
