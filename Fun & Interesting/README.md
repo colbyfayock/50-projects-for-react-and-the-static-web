@@ -58,3 +58,8 @@ Know of one? Let me know!
 ### Tutorials
 * [Create a Discord bot under 15 minutes](https://thomlom.dev/create-a-discord-bot-under-15-minutes/) (thomlom.dev)
 * [Building and deploying a Discord bot with Docker, Digital Ocean, and discord.js](https://www.christopherbiscardi.com/building-and-deploying-a-discord-bot-with-docker-digital-ocean-and-discord-js) (christopherbiscardi.com)
+
+---
+
+## Know of any other good resources?
+If you know of a great tutorial or another tool that can help others, open a pull request with a link!
