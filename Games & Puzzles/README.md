@@ -30,3 +30,8 @@
 * [Html5 Jigsaw Puzzle](https://www.codeproject.com/Articles/395453/Html5-Jigsaw-Puzzle) (codeproject.com)
 
 ### Inspiration
+
+---
+
+## Know of any other good resources?
+If you know of a great tutorial or another tool that can help others, open a pull request with a link!
