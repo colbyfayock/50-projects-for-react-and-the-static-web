@@ -32,3 +32,9 @@
 
 ### Inspiration
 * [Gatsby Tailwind Theme](https://github.com/talensjr/gatsby-theme-tailwindcss) (github.com)
+
+
+---
+
+## Know of any other good resources?
+If you know of a great tutorial or another tool that can help others, open a pull request with a link!
