@@ -22,9 +22,9 @@ Get the [FREE PDF](https://50reactprojects.com/) here: [50reactprojects.com](htt
 Contributions are welcome with open arms! My goal is to provide an easy resource for anyone to get started building rather than getting stuck trying to come up with an idea.
 
 Here are some ideas of ways you can help:
-* Toolbox: know of a really great React hook or library that's a great resource to learn and use?
-* Tutorials: know of a great tutorial that helps walk through building a similar project or something that might help as part of that project?
-* Documentation: is there anything on here you think is confusing, could use more clarification, or just something that could be helpful?
+* **Toolbox:** know of a really great React hook or library that's a great resource to learn and use?
+* **Tutorials:** know of a great tutorial that helps walk through building a similar project or something that might help as part of that project?
+* **Documentation:** is there anything on here you think is confusing, could use more clarification, or just something that could be helpful?
 
 
 ## ✨ Contributors 
