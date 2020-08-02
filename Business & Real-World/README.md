@@ -60,6 +60,22 @@
 * [React Forms](https://reactjs.org/docs/forms.html) (reactjs.org)
 * [Formik Docs Tutorial](https://formik.org/docs/tutorial) (formik.org)
 
+## Map Statistics Dashboard
+
+### Toolbox
+* [Open Disease Data API](https://disease.sh/) (disease.sh)
+* [React Leaflet](https://react-leaflet.js.org/) (react-leaflet.js.org)
+* [Gatsby Leaflet Starter](https://github.com/colbyfayock/gatsby-starter-leaflet) (github.com)
+
+### Tutorials
+* [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/) (freecodecamp.org)
+* [How to add Coronavirus (COVID-19) case statistics to your React map dashboard with Gatsby](https://www.freecodecamp.org/news/how-to-add-coronavirus-covid-19-case-statistics-to-your-map-dashboard-in-gatsby-and-react-leaflet/) (freecodecamp.org)
+* [Mapping with React Leaflet](https://egghead.io/playlists/mapping-with-react-leaflet-e0e0?af=atzgap) (egghead.io)
+
+### Inspiration
+* [COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)](https://coronavirus.jhu.edu/map.html) (coronavirus.jhu.ed)
+* [Coronavirus (COVID-19) Dashboard Demo](https://coronavirus-map-dashboard.netlify.app/) (coronavirus-map-dashboard.netlify.app)
+
 ---
 
 ## Know of any other good resources?
