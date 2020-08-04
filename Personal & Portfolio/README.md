@@ -54,6 +54,19 @@
 ### Inspiration
 * [Jira Clone with with React/Babel (Client), and Node/TypeScript (API)](https://github.com/oldboyxx/jira_clone) (github.com)
 
+## Newsletter
+
+### Toolbox
+* [Mailchimp](https://mailchimp.com/) (mailchimp.com)
+* [Convertkit](https://convertkit.com/) (convertkit.com)
+* [gatsby-plugin-mailchimp](https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp/) (github.com)
+
+### Tutorials
+* [Adding a Mailing List to Your Gatsby Site](https://www.stackbit.com/blog/jamstack-gatsby-mailchimp/) (stackbit.com)
+
+### Inspiration
+
+
 ---
 
 ## Know of any other good resources?
