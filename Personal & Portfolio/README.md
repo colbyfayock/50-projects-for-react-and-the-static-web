@@ -42,6 +42,18 @@
 
 ### Inspiration
 
+## Project Tracker
+
+### Toolbox 
+* [MongoDB](https://www.mongodb.com/)
+
+### Tutorials
+* [A Gentle Introduction To Setting Up A React and MongoDB Stitch App From Scratch In 10 Minutes](https://www.joekarlsson.com/2019/04/a-gentle-introduction-to-setting-up-a-react-and-mongodb-stitch-app-from-scratch-in-10-minutes/) (joekarlsson.com)
+* [FullStack setup (Node.js, React.js and MongoDB)](https://dev.to/pacheco/my-fullstack-setup-node-js-react-js-and-mongodb-2a4k) (dev.to)
+
+### Inspiration
+* [Jira Clone with with React/Babel (Client), and Node/TypeScript (API)](https://github.com/oldboyxx/jira_clone) (github.com)
+
 ---
 
 ## Know of any other good resources?
