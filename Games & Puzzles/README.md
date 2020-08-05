@@ -16,6 +16,7 @@
 
 ### Tutorials
 * [Build a Game in React with Recoil](https://www.youtube.com/watch?v=FQW1g-4dZ7k&list=PLGMdx7aeJHvQe16pAetbmkIGsj-HUsIYj) (youtube.com)
+* [Learn JavaScript by building 7 games](https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/) (freecodecamp.org)
 
 ### Inspiration
 * [Flexbox Froggy](https://flexboxfroggy.com/) (flexboxfroggy.com)
