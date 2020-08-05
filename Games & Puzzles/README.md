@@ -13,6 +13,7 @@
 ## Frogger
 
 ### Toolbox
+* [Recoil](https://recoiljs.org/) (recoiljs.org)
 
 ### Tutorials
 * [Build a Game in React with Recoil](https://www.youtube.com/watch?v=FQW1g-4dZ7k&list=PLGMdx7aeJHvQe16pAetbmkIGsj-HUsIYj) (youtube.com)
