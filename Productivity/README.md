@@ -46,6 +46,16 @@
 
 ### Inspiration
 
+## Habit Reminder
+
+### Toolbox
+* [TypeORM](https://typeorm.io/) (typeorm.io)
+
+### Tutorials
+* [Build a Health Tracking App with React, GraphQL, and User Authentication](https://scotch.io/tutorials/build-a-health-tracking-app-with-react-graphql-and-user-authentication) (scotch.io)
+
+### Inspiration
+
 ---
 
 ## Know of any other good resources?
