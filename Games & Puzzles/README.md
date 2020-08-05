@@ -6,6 +6,7 @@
 * [Fillerama](http://fillerama.io/) (fillerama.io)
 
 ### Tutorials
+Know of any good tutorials? Submit a Pull Reqest!
 
 ### Inspiration
 * [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs) (wikipedia.org)
@@ -32,6 +33,7 @@
 * [Html5 Jigsaw Puzzle](https://www.codeproject.com/Articles/395453/Html5-Jigsaw-Puzzle) (codeproject.com)
 
 ### Inspiration
+Know of any good examples? Submit a Pull Reqest!
 
 ## Tetris
 
