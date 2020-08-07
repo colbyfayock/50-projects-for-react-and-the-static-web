@@ -29,7 +29,7 @@ Here are some ideas of ways you can help:
 
 ## ✨ Contributors 
 
-[emoji key](https://allcontributors.org/docs/en/emoji-key)
+This project is built by [Colby Fayock](https://twitter.com/colbyfayock) and all contributors. [emoji key](https://allcontributors.org/docs/en/emoji-key)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
