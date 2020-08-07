@@ -1,4 +1,4 @@
-# Productivity
+# 🍃 Productivity
 
 ## Flash Cards
 
@@ -33,7 +33,7 @@
 * [Use bookmarklets to quickly perform common web page tasks](https://support.mozilla.org/en-US/kb/bookmarklets-perform-common-web-page-tasks) (support.mozilla.org)
 
 ### Inspiration
-Know of any good examples? Submit a pull request!
+Know of any good examples? Submit a Pull Request!
 
 ## Budget Manager
 
@@ -46,7 +46,7 @@ Know of any good examples? Submit a pull request!
 * [The complete guide on how to use Google sheets as a database](https://codingislove.com/google-sheets-database/) (codingislove.com)
 
 ### Inspiration
-Know of any good examples? Submit a pull request!
+Know of any good examples? Submit a Pull Request!
 
 ## Habit Reminder
 
@@ -57,6 +57,7 @@ Know of any good examples? Submit a pull request!
 * [Build a Health Tracking App with React, GraphQL, and User Authentication](https://scotch.io/tutorials/build-a-health-tracking-app-with-react-graphql-and-user-authentication) (scotch.io)
 
 ### Inspiration
+Know of any good examples? Submit a Pull Request!
 
 ## To-Do List
 
@@ -68,7 +69,7 @@ Know of any good examples? Submit a pull request!
 * [How to Build a TodoApp using ReactJS and Firebase](https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/)
 
 ### Inspiration
-Know of any good examples? Submit a pull request!
+Know of any good examples? Submit a Pull Request!
 
 ---
 
