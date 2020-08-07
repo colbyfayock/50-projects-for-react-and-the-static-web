@@ -33,6 +33,7 @@
 * [Use bookmarklets to quickly perform common web page tasks](https://support.mozilla.org/en-US/kb/bookmarklets-perform-common-web-page-tasks) (support.mozilla.org)
 
 ### Inspiration
+Know of any good examples? Submit a pull request!
 
 ## Budget Manager
 
@@ -45,6 +46,7 @@
 * [The complete guide on how to use Google sheets as a database](https://codingislove.com/google-sheets-database/) (codingislove.com)
 
 ### Inspiration
+Know of any good examples? Submit a pull request!
 
 ## Habit Reminder
 
@@ -55,6 +57,18 @@
 * [Build a Health Tracking App with React, GraphQL, and User Authentication](https://scotch.io/tutorials/build-a-health-tracking-app-with-react-graphql-and-user-authentication) (scotch.io)
 
 ### Inspiration
+
+## To-Do List
+
+### Toolbox
+* [Firebase](https://firebase.google.com/) (firebase.google.com)
+
+### Tutorials
+* [Beginning our React todo list](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
+* [How to Build a TodoApp using ReactJS and Firebase](https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/)
+
+### Inspiration
+Know of any good examples? Submit a pull request!
 
 ---
 
