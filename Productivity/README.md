@@ -1,4 +1,4 @@
-# 🍃 Productivity
+# Productivity
 
 ## Flash Cards
 
