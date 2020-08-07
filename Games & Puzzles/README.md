@@ -1,4 +1,4 @@
-# 🧩 Games & Puzzles
+# Games & Puzzles
 
 ## Mad Libs
 
