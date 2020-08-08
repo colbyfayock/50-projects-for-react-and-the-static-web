@@ -71,6 +71,19 @@ Know of any good examples? Submit a Pull Request!
 ### Inspiration
 Know of any good examples? Submit a Pull Request!
 
+## Notebook
+
+### Toolbox
+* [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) (github.com)
+* [Fuse.js](https://fusejs.io/) (fusejs.io)
+
+### Tutorials
+* [How to Add Search to a React App with Fuse.js](https://www.freecodecamp.org/news/how-to-add-search-to-a-react-app-with-fuse-js/) (freecodecamp.org)
+
+### Inspiration
+* [Foam](https://foambubble.github.io/foam/) (foambubble.github.io)
+* [Roam Research](https://roamresearch.com/) (roamresearch.com)
+
 ---
 
 ## Know of any other good resources?
