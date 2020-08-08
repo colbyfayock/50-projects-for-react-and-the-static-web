@@ -83,6 +83,7 @@ Know of any good examples? Submit a Pull Request!
 ### Inspiration
 * [Foam](https://foambubble.github.io/foam/) (foambubble.github.io)
 * [Roam Research](https://roamresearch.com/) (roamresearch.com)
+* [Gatsby Garden Theme](https://github.com/mathieudutour/gatsby-digital-garden) (github.com)
 
 ---
 
