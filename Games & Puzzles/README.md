@@ -58,6 +58,17 @@ Know of any good tools? Submit a Pull Request!
 ### Inspiration
 Know of any good examples? Submit a Pull Reqest!
 
+## Cards Against Humanity
+
+### Toolbox
+Know of any good tools? Submit a Pull Request!
+
+### Tutorials
+Know of any good tutorials? Submit a Pull Request!
+
+### Inspiration
+* [Game Slap](https://www.gameslap.io/)
+
 ---
 
 ## Know of any other good resources?
