@@ -33,6 +33,18 @@
 ### Inspiration
 * [Gatsby Tailwind Theme](https://github.com/talensjr/gatsby-theme-tailwindcss) (github.com)
 
+## CSS Animation Library
+
+### Toolbox
+* [Sass](https://sass-lang.com/) (sass-lang.com)
+
+### Tutorials
+* [How to Use Pure CSS to Create a Beautiful Loading Animation for your App](https://www.freecodecamp.org/news/how-to-use-css-to-create-a-beautiful-loading-animation-for-your-app/) (freecodecamp.org)
+
+### Inspiration
+* [Animate.css](https://animate.style/) (animate.style)
+* [Pure CSS Loaders](https://loading.io/css/) (loading.io)
+
 
 ---
 
