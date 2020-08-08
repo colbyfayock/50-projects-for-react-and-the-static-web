@@ -8,6 +8,9 @@
 ### Tutorials
 * [How to Add Search to a React App with Fuse.js](https://www.freecodecamp.org/news/how-to-add-search-to-a-react-app-with-fuse-js/) (freecodecamp.org)
 
+### Inspiration
+Know of any good examples? Submit a Pull Request!
+
 ## Dark Mode
 
 ### Toolbox
@@ -17,6 +20,7 @@
 * [The Quest for the Perfect Dark Mode](https://joshwcomeau.com/gatsby/dark-mode/) (joshwcomeau.com)
 
 ### Inspiration
+Know of any good examples? Submit a Pull Request!
 
 ## Webmentions
 
@@ -32,6 +36,7 @@
 * [Building Gatsby Plugin Webmentions](https://www.christopherbiscardi.com/post/building-gatsby-plugin-webmentions) (christopherbiscardi.com)
 
 ### Inspiration
+Know of any good examples? Submit a Pull Request!
 
 ## Analytics
 
@@ -43,6 +48,20 @@
 ### Tutorials
 * [How to Make Sense of Google Analytics and the Traffic to Your Website](https://www.colbyfayock.com/2019/09/making-sense-of-google-analytics-and-the-traffic-to-your-website) (colbyfayock.com
 * [The 8 Most Important Google Analytics Filters](https://www.lovesdata.com/blog/google-analytics-filters) (lovesdata.com)
+
+## Code Stats
+
+### Toolbox
+* [Github REST API](https://docs.github.com/en/rest) (docs.github.com)
+* [Github GraphQL API](https://docs.github.com/en/graphql) (docs.github.com)
+* [Postman](https://www.postman.com/) (postman.com)
+
+### Tutorials
+* [Github API - retrieve user commits?](https://stackoverflow.com/questions/21869795/github-api-retrieve-user-commits) (stackoverflow.com)
+* [How to Test and Play with Web APIs the Easy Way with Postman](https://www.freecodecamp.org/news/how-to-test-and-play-with-web-apis-the-easy-way-with-postman/) (freecodecamp.org)
+
+### Inspiration
+Know of any good examples? Submit a Pull Request!
 
 ---
 
