@@ -45,6 +45,19 @@
 * [Animate.css](https://animate.style/) (animate.style)
 * [Pure CSS Loaders](https://loading.io/css/) (loading.io)
 
+## Custom GitHub Action
+
+### Toolbox
+ 
+* [Slack API](https://api.slack.com/) (api.slack.com)
+* [ncc](https://github.com/vercel/ncc) (github.com)
+
+### Tutorials
+* [What are Github Actions and How Can You Automate Tests and Slack Notifications?](https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/) (freecodecamp.org)
+* [Create a New Github Action to Automate Code Tasks with Javascript](https://egghead.io/playlists/create-a-new-github-action-to-automate-code-tasks-with-javascript-f1e9?af=atzgap) (egghead.io)
+
+### Inspiration
+Know of any good examples? Submit a Pull Request!
 
 ---
 
