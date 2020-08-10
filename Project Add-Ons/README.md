@@ -63,6 +63,19 @@ Know of any good examples? Submit a Pull Request!
 ### Inspiration
 Know of any good examples? Submit a Pull Request!
 
+## Highlight & Share
+
+### Toolbox
+* [Window.getSelection](https://developer.mozilla.org/en-US/docs/Web/API/Window/getSelection) (developer.mozilla.org)
+* [Cloudinary](https://cloudinary.com/) (cloudinary.com)
+
+### Tutorials
+* [Tweetable Selections](https://www.christopherbiscardi.com/tweetable-selections) (christopherbiscardi.com)
+
+### Inspiration
+* [Chris Biscardi](https://www.christopherbiscardi.com) (christopherbiscardi.com)
+* [react-highlight-pop](https://github.com/codeshifu/react-highlight-pop)
+
 ---
 
 ## Know of any other good resources?
