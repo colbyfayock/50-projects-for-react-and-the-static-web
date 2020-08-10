@@ -48,6 +48,10 @@ Know of one? Let me know!
 * [Building a Piano with React Hooks](https://dev.to/ganeshmani/building-a-piano-with-react-hooks-3mih) (dev.to)
 * [How to Build a Piano Keyboard Using Vanilla JavaScript](https://www.freecodecamp.org/news/javascript-piano-keyboard/) (freecodecamp.org)
 * [Building a piano with tone.js!](https://dev.to/shimphillip/building-a-piano-with-tone-js-5c2f) (dev.to)
+* [How I Made a Piano in only 1kb of JavaScript](https://frankforce.com/?p=7617#pianostory) (frankforce.com)
+
+### Inspiration
+* [React Guitar](https://react-guitar.com/) (react-guitar.com)
 
 
 ## Community Chat Bot
