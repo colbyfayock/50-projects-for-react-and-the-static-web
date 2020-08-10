@@ -74,7 +74,7 @@ Know of any good examples? Submit a Pull Request!
 
 ### Inspiration
 * [Chris Biscardi](https://www.christopherbiscardi.com) (christopherbiscardi.com)
-* [react-highlight-pop](https://github.com/codeshifu/react-highlight-pop)
+* [react-highlight-pop](https://github.com/codeshifu/react-highlight-pop) (github.com)
 
 ---
 
