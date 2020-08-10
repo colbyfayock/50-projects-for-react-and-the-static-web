@@ -59,6 +59,19 @@
 ### Inspiration
 Know of any good examples? Submit a Pull Request!
 
+## Framework Starter
+
+### Toolbox
+* [Next.js](https://nextjs.org/) (nextjs.org)
+* [MDX](https://mdxjs.com/) (mdxjs.com)
+
+### Tutorials
+* [Building a Blog with Next.js](https://css-tricks.com/building-a-blog-with-next-js/) (css-tricks.com)
+* [MDX: Next.js](https://mdxjs.com/getting-started/next) (mdxjs.com)
+
+### Inspiration
+* [Next + MDX Digital Garden Starter](https://github.com/RyanWarner/next-mdx-digital-garden-starter/) (github.com)
+
 ---
 
 ## Know of any other good resources?
