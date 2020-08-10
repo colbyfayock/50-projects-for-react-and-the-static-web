@@ -59,6 +59,21 @@ Know of any good examples? Submit a Pull Request!
 ### Inspiration
 * [Interface In Game -The Legend of Zelda: Breath of the Wild](https://interfaceingame.com/games/the-legend-of-zelda-breath-of-the-wild/) (interfaceingame.com)
 
+## Tesla Touchscreen
+
+### Toolbox
+* [react-tabs](https://github.com/reactjs/react-tabs) (github.com)
+* [Spotify API](https://developer.spotify.com/documentation/web-api/) (developer.spotify.com)
+* [Leaflet](https://leafletjs.com/) (leafletjs.com)
+* [React Leaflet](https://react-leaflet.js.org/) (react-leaflet.js.org)
+
+### Tutorials
+* [Mapping with React Leaflet](https://egghead.io/playlists/mapping-with-react-leaflet-e0e0?af=atzgap) (egghead.io)
+* [How to Build A Spotify Player with React in 15 Minutes](https://www.joekarlsson.com/2019/04/how-to-build-a-spotify-player-with-react-in-15-minutes/) (joekarlsson.com)
+
+### Inspiration
+* [You can play with Tesla Model 3’s UI with this interactive mockup](https://electrek.co/2017/08/02/you-can-play-with-tesla-model-3s-ui-with-this-interactive-mockup/) (electrek.co)
+
 ---
 
 ## Know of any other good resources?
