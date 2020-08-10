@@ -47,6 +47,17 @@
 
 ### Inspiration
 
+## Zelda UI
+
+### Toolbox
+* [React HotKeys](https://github.com/greena13/react-hotkeys) (github.com)
+
+### Tutorials
+* [How to replicate the Zelda BOTW interface with React, Tailwind and Framer-motion](https://dev.to/flagrede/how-to-replicate-the-zelda-botw-interface-with-react-tailwind-and-framer-motion-part-1-298g) (dev.to)
+
+### Inspiration
+* [Interface In Game -The Legend of Zelda: Breath of the Wild](https://interfaceingame.com/games/the-legend-of-zelda-breath-of-the-wild/) (interfaceingame.com)
+
 ---
 
 ## Know of any other good resources?
