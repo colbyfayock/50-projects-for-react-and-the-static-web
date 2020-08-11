@@ -59,7 +59,7 @@ Know of any good examples? Submit a Pull Request!
 ### Inspiration
 Know of any good examples? Submit a Pull Request!
 
-## To-Do List
+## Shopping List
 
 ### Toolbox
 * [Firebase](https://firebase.google.com/) (firebase.google.com)
