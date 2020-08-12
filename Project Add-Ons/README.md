@@ -36,7 +36,8 @@ Know of any good examples? Submit a Pull Request!
 * [Building Gatsby Plugin Webmentions](https://www.christopherbiscardi.com/post/building-gatsby-plugin-webmentions) (christopherbiscardi.com)
 
 ### Inspiration
-Know of any good examples? Submit a Pull Request!
+* [Knut Melvær](https://www.knutmelvaer.no/blog/) (knutmelvaer.no)
+* [Swyx](https://swyx.io) (swyx.io)
 
 ## Analytics
 
