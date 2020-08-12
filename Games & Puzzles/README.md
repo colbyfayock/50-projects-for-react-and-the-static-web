@@ -56,7 +56,7 @@ Know of any good tools? Submit a Pull Request!
 * [Learn JavaScript by building 7 games](https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/) (freecodecamp.org)
 
 ### Inspiration
-Know of any good examples? Submit a Pull Reqest!
+* [Space Invaders](https://codepen.io/adelciotto/pen/BHuGL) (codepen.io)
 
 ## Cards Against Humanity
 
