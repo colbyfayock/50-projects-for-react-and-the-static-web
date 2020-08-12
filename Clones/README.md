@@ -44,6 +44,7 @@
 
 ### Tutorials
 * [Building a Product Hunt clone app using Hasura and Next.js](https://blog.logrocket.com/building-a-product-hunt-clone-app-using-hasura-and-next-js/) (logrocket.com)
+* [How to build a basic version of Product Hunt using React](https://www.freecodecamp.org/news/how-to-build-a-basic-version-of-product-hunt-using-react-f87d016fedae/) (freecodecamp.org)
 
 ### Inspiration
 Know of any good examples? Submit a Pull Request!
