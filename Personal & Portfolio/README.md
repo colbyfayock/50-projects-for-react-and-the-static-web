@@ -19,8 +19,10 @@
 
 ### Tutorials
 * [Making a Gatsby Blog with Netlify CMS](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/) (gatsbyjs.org)
+* [How to Build Your Coding Blog From Scratch Using Gatsby and MDX](https://www.freecodecamp.org/news/build-a-developer-blog-from-scratch-with-gatsby-and-mdx/) (freecodecamp.org)
 
 ### Inspiration
+* [Gatsby Netlify CMS Starter](https://gatsby-netlify-cms.netlify.app/) (gatsby-netlify-cms.netlify.app)
 
 ## Project Case Studies
 
