@@ -21,7 +21,7 @@ Know of any good tutorials? Submit a Pull Reqest!
 * [Learn JavaScript by building 7 games](https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/) (freecodecamp.org)
 
 ### Inspiration
-* [Flexbox Froggy](https://flexboxfroggy.com/) (flexboxfroggy.com)
+* [Frogger-React-VR](https://github.com/matthamil/React-VR-Frogger) (github.com)
 
 ## Jigsaw Puzzle
 
