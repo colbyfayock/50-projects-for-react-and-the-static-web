@@ -20,7 +20,7 @@ Know of any good examples? Submit a Pull Request!
 * [The Quest for the Perfect Dark Mode](https://joshwcomeau.com/gatsby/dark-mode/) (joshwcomeau.com)
 
 ### Inspiration
-Know of any good examples? Submit a Pull Request!
+* [Josh W. Comeau](https://joshwcomeau.com/) (joshwcomeau.com)
 
 ## Webmentions
 
