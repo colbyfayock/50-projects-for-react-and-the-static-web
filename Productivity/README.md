@@ -10,6 +10,8 @@
 
 ### Inspiration
 * [Pure CSS - Sticky-Stacked Cards](https://codepen.io/enbee81/full/MWKxrvP) (codepen.io)
+* [@dolearning and @colbyfayock Stream with Next.js and Tailwind](https://www.youtube.com/watch?v=5yIBAeGphTw) (youtube.com)
+* [Flash Cards using Next.js Starter Tailwind](https://github.com/doingandlearning/flash-cards) (github.com)
 
 ## Mood Board
 
