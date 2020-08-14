@@ -26,6 +26,9 @@ Here are some ideas of ways you can help:
 * **Tutorials:** know of a great tutorial that helps walk through building a similar project or something that might help as part of that project?
 * **Documentation:** is there anything on here you think is confusing, could use more clarification, or just something that could be helpful?
 
+##  Support This Project
+
+Support this project and future free content by [sponsoring @colbyfayock](https://github.com/sponsors/colbyfayock).
 
 ## ✨ Contributors 
 
