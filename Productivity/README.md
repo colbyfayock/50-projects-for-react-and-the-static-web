@@ -29,6 +29,7 @@
 
 ### Toolbox
 * [FaunaDB](https://fauna.com/) (fauna.com)
+* [useFauna](https://github.com/ryancharris/use-fauna) (github.com)
 
 ### Tutorials
 * [Build a dynamic JAMstack app with GatsbyJS and FaunaDB](https://css-tricks.com/build-a-dynamic-jamstack-app-with-gatsbyjs-and-faunadb/) (css-tricks.com)
