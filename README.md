@@ -19,7 +19,7 @@ Get the [FREE PDF](https://50reactprojects.com/) here: [50reactprojects.com](htt
 
 ## Completed any project ?
 
-You can create a pull request to [project_completed](projects_completed.md) and add your username and the projects done as followed .
+You can create a pull request to [completed projects section](project_completed.md) and add your username and the projects done as followed .
 Something like this <br>
 ```
 [username]( GitHub Profile Link )
