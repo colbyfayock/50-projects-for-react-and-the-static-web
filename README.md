@@ -17,6 +17,14 @@ Get the [FREE PDF](https://50reactprojects.com/) here: [50reactprojects.com](htt
 * [Project Add-Ons](Project%20Add-Ons)
 * [Clones](Clones)
 
+## Completed any project ?
+
+You can create a pull request to projects_completed.md and add your username and the projects done as followed .
+Something like this <br>
+(username)[link]
+(project name) [ completed link]
+You can always add extra projects with a PR later.
+
 ## Contributing
 
 Contributions are welcome with open arms! My goal is to provide an easy resource for anyone to get started building rather than getting stuck trying to come up with an idea.
