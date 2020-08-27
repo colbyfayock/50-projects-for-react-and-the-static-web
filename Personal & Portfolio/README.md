@@ -41,6 +41,7 @@
 ### Tutorials
 * [Getting to Grips with the Airtable API](https://css-tricks.com/getting-to-grips-with-the-airtable-api/) (css-tricks.com)
 * [Airtable and React: Create a Simple Web App](https://upmostly.com/tutorials/create-simple-web-app-react-airtable) (upmostly.com)
+* [Build A Goal Manager React App w/ Hooks, Airtable API, & styled-components](https://youtu.be/FEoEvSmtmPQ) (youtube.com/codeSTACKr)
 
 ### Inspiration
 
