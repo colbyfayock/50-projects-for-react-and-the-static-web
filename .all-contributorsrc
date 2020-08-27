@@ -14,6 +14,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "codeSTACKr",
+      "name": "Jesse Hall",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/52665907?v=4",
+      "profile": "https://www.youtube.com/codeSTACKr/",
+      "contributions": [
+        "doc",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
