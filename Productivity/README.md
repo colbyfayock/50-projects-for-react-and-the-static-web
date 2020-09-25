@@ -34,6 +34,7 @@
 ### Tutorials
 * [Build a dynamic JAMstack app with GatsbyJS and FaunaDB](https://css-tricks.com/build-a-dynamic-jamstack-app-with-gatsbyjs-and-faunadb/) (css-tricks.com)
 * [Use bookmarklets to quickly perform common web page tasks](https://support.mozilla.org/en-US/kb/bookmarklets-perform-common-web-page-tasks) (support.mozilla.org)
+* [Create a bookmark manager app using FaunaDB and Netlify](https://dev.to/myogeshchavan97/create-a-bookmark-manager-app-using-faunadb-and-netlify-serverless-functions-4cp0) (dev.to)
 
 ### Inspiration
 Know of any good examples? Submit a Pull Request!
