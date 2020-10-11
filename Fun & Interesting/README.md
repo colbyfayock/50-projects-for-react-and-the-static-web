@@ -4,6 +4,7 @@
 
 ### Toolbox
 * [Futurama API](https://futuramaapi.herokuapp.com/) (futuramaapi.herokuapp.com)
+* [Final Space API](https://finalspaceapi.com/) (finalspaceapi.com)
 
 ### Tutorials
 * [How to Create a Dynamic Rick and Morty Wiki Web App with Next.js](https://www.freecodecamp.org/news/how-to-create-a-dynamic-rick-and-morty-wiki-web-app-with-next-js/) (freecodecamp.org)
