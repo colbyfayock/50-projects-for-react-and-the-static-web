@@ -51,6 +51,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "doingandlearning",
+      "name": "Kevin Cunningham",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8320213?v=4",
+      "profile": "http://www.kevincunningham.co.uk",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
