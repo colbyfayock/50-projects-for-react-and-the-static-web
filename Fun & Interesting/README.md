@@ -21,7 +21,6 @@
 ### Tutorials
 
 - [Source and Create Nodes with Data from an API in Gatsby to Create a Pokemon Pokedex](https://egghead.io/playlists/source-and-create-nodes-with-data-from-an-api-in-gatsby-to-create-a-pokemon-pokedex-5e28?af=atzgap) (egghead.io)
-- [Create a Discord posting bot with Netlify and Cron](https://www.kevincunningham.co.uk/posts/discord-inktober-bot) (kevincunningham.co.uk)
 
 ## Video Gallery
 
@@ -76,6 +75,7 @@ Know of one? Let me know!
 
 - [Create a Discord bot under 15 minutes](https://thomlom.dev/create-a-discord-bot-under-15-minutes/) (thomlom.dev)
 - [Building and deploying a Discord bot with Docker, Digital Ocean, and discord.js](https://www.christopherbiscardi.com/building-and-deploying-a-discord-bot-with-docker-digital-ocean-and-discord-js) (christopherbiscardi.com)
+- [Create a Discord posting bot with Netlify and Cron](https://www.kevincunningham.co.uk/posts/discord-inktober-bot) (kevincunningham.co.uk)
 
 ---
 
