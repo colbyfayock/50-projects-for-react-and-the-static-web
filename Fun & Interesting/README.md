@@ -19,8 +19,8 @@
 - [PokéAPI](https://pokeapi.co/) (pokeapi.co)
 
 ### Tutorials
-
 - [Source and Create Nodes with Data from an API in Gatsby to Create a Pokemon Pokedex](https://egghead.io/playlists/source-and-create-nodes-with-data-from-an-api-in-gatsby-to-create-a-pokemon-pokedex-5e28?af=atzgap) (egghead.io)
+- [Create a Pokemon Index in JavaScript & React](https://learn.better.dev/webinars/javascript-to-react)(Chris on Code)
 
 ## Video Gallery
 
