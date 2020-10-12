@@ -1,6 +1,6 @@
 # 50 Projects for React and the Static Web
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 50 project ideas to help you stop asking yourself what to build.
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://m.youtube.com/channel/UCKmIFs7rFKdTE6t1y8bKAHQ/videos"><img src="https://avatars0.githubusercontent.com/u/49345531?v=4" width="100px;" alt=""/><br /><sub><b>Ameen</b></sub></a><br /><a href="https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/commits?author=UnevenCoder" title="Documentation">📖</a></td>
     <td align="center"><a href="https://medium.com/@yogeshchavan"><img src="https://avatars3.githubusercontent.com/u/2779129?v=4" width="100px;" alt=""/><br /><sub><b>Yogesh Chavan</b></sub></a><br /><a href="https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/commits?author=myogeshchavan97" title="Documentation">📖</a></td>
     <td align="center"><a href="https://ashusingh.me/"><img src="https://avatars0.githubusercontent.com/u/45850882?v=4" width="100px;" alt=""/><br /><sub><b>ASHUTOSH KUMAR SINGH</b></sub></a><br /><a href="https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/commits?author=lelouchB" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.kevincunningham.co.uk"><img src="https://avatars3.githubusercontent.com/u/8320213?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Cunningham</b></sub></a><br /><a href="https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/commits?author=doingandlearning" title="Documentation">📖</a></td>
   </tr>
 </table>
 
