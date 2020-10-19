@@ -30,6 +30,8 @@
 * [E-Commerce for React Developers [w/ Gatsby Tutorial]](https://snipcart.com/blog/react-ecommerce-gatsby-tutorial) (snipcart.com)
 * [Learn to Add Apple Pay and Google Pay to React Websites](https://www.netlify.com/blog/2020/05/21/learn-to-add-apple-pay-and-google-pay-to-react-websites/) (netlify.com)
 * [How to make an online store in one day using AWS, React, and Stripe](https://www.freecodecamp.org/news/how-to-make-a-store-in-one-day-aws-react-stripe/) (freecodecamp.org)
+* [Creating a Static E-Commerce Website with Snipcart, GatsbyJS and DatoCMS](https://snipcart.com/blog/static-ecommerce-gatsby-datocms) (snipcart.com)
+* [Learn Gatsby: How to connect a CMS and Shopping Cart to Your Gatsby Site](https://youtu.be/rlJAymE1VVw) (youtube.com)
 
 ## Website Admin
 
@@ -38,7 +40,7 @@
 * [Auth0 React SDK](https://auth0.com/docs/libraries/auth0-react) (auth0.com)
 
 ### Tutorials
-* [Authenticating Your First React App](https://auth0.com/blog/authenticating-your-first-react-app/) (auth0.com)
+* [The Complete Guide to React User Authentication with Auth0](https://auth0.com/blog/complete-guide-to-react-user-authentication/) (auth0.com)
 * [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications) (kentcdodds.com)
 
 ## Metrics Dashboard
@@ -50,6 +52,7 @@
 
 ### Tutorials
 * [Creating a dashboard with React and Chart.js](https://www.createwithdata.com/react-chartjs-dashboard/) (createwithdata.com)
+* [Graphing with Chart.js - Working With Data & APIs in JavaScript](https://youtu.be/5-ptp9tRApM) (youtube.com)
 
 ## Survey Creator & Manager
 
