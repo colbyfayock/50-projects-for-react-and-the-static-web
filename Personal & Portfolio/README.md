@@ -20,6 +20,8 @@
 ### Tutorials
 * [Making a Gatsby Blog with Netlify CMS](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/) (gatsbyjs.org)
 * [How to Build Your Coding Blog From Scratch Using Gatsby and MDX](https://www.freecodecamp.org/news/build-a-developer-blog-from-scratch-with-gatsby-and-mdx/) (freecodecamp.org)
+* [Building a Blog with Next.js](https://css-tricks.com/building-a-blog-with-next-js/) (css-tricks.com)
+* [How To Build A Blog With Next And MDX](https://www.smashingmagazine.com/2020/09/build-blog-nextjs-mdx/) (smashingmagazine.com)
 
 ### Inspiration
 * [Gatsby Netlify CMS Starter](https://gatsby-netlify-cms.netlify.app/) (gatsby-netlify-cms.netlify.app)
@@ -32,6 +34,7 @@
 ### Tutorials
 * [8 Tips For Creating a Great Case Study](https://neilpatel.com/blog/creating-a-great-case-study/) (neilpatel.com)
 * [How to Write a Case Study: Bookmarkable Guide & Template](https://blog.hubspot.com/blog/tabid/6307/bid/33282/the-ultimate-guide-to-creating-compelling-case-studies.aspx) (blog.hubspot.com)
+* [Building an Effective Dev Portfolio](https://joshwcomeau.com/effective-portfolio/) (joshwcomeau.com)
 
 ## Goal Manager
 
@@ -66,6 +69,7 @@
 
 ### Tutorials
 * [Adding a Mailing List to Your Gatsby Site](https://www.stackbit.com/blog/jamstack-gatsby-mailchimp/) (stackbit.com)
+* [Create A Newsletter with Next.js API Routes and Mailchimp](https://leerob.io/blog/mailchimp-next-js) (leerob.io)
 
 ### Inspiration
 
