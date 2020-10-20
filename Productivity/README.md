@@ -7,6 +7,7 @@
 
 ### Tutorials
 * [React Firebase Flashcards App Tutorial](https://www.youtube.com/watch?v=pKCAtlsn1Eo) (youtube.com)
+* [How To Build A Flashcard Quiz With React](https://youtu.be/hEtZ040fsD8) (youtube.com)
 
 ### Inspiration
 * [Pure CSS - Sticky-Stacked Cards](https://codepen.io/enbee81/full/MWKxrvP) (codepen.io)
