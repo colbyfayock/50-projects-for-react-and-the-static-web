@@ -51,7 +51,7 @@ Know of any good examples? Submit a Pull Request!
 * [The complete guide on how to use Google sheets as a database](https://codingislove.com/google-sheets-database/) (codingislove.com)
 
 ### Inspiration
-Know of any good examples? Submit a Pull Request!
+* [Budgeting](https://shashiirk.github.io/budgeting) (shashiirk.github.io)
 
 ## Habit Reminder
 
@@ -74,7 +74,7 @@ Know of any good examples? Submit a Pull Request!
 * [How to Build a TodoApp using ReactJS and Firebase](https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/)
 
 ### Inspiration
-Know of any good examples? Submit a Pull Request!
+* [Todos](https://shashiirk.github.io/todos) (shashiirk.github.io)
 
 ## Notebook
 
