@@ -51,7 +51,7 @@ Know of any good examples? Submit a Pull Request!
 * [The complete guide on how to use Google sheets as a database](https://codingislove.com/google-sheets-database/) (codingislove.com)
 
 ### Inspiration
-Know of any good examples? Submit a Pull Request!
+* [Budgeting](https://shashiirk.github.io/budgeting) (shashiirk.github.io)
 
 ## Habit Reminder
 
