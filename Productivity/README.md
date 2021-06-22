@@ -74,7 +74,7 @@ Know of any good examples? Submit a Pull Request!
 * [How to Build a TodoApp using ReactJS and Firebase](https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/)
 
 ### Inspiration
-Know of any good examples? Submit a Pull Request!
+* [Todos](https://shashiirk.github.io/todos) (shashiirk.github.io)
 
 ## Notebook
 
