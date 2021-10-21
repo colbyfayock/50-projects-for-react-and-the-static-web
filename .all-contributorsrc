@@ -78,6 +78,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "andreaskeller",
+      "name": "Andreas Keller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5086590?v=4",
+      "profile": "https://github.com/andreaskeller",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
