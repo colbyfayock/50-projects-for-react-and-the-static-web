@@ -32,6 +32,7 @@
 ### Tutorials
 
 - [How to Use the YouTube API in React to Add a Playlist to a Next.js App](https://youtu.be/8YWrmZoUYGs) (youtube.com)
+- [Next.js YouTube Video Gallery](https://andreaskeller.name/blog/nextjs-youtube-video-gallery) (andreaskeller.name)
 
 ## Road Trip Map
 
