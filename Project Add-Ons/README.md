@@ -18,6 +18,9 @@ Know of any good examples? Submit a Pull Request!
 
 ### Tutorials
 * [The Quest for the Perfect Dark Mode](https://joshwcomeau.com/gatsby/dark-mode/) (joshwcomeau.com)
+* [TailwindCSS Dark Mode in Next.js with Tailwind Typography Prose Classes](https://egghead.io/blog/tailwindcss-dark-mode-nextjs-typography-prose) (egghead.io)
+* [Dark mode in React: An in-depth guide](https://blog.logrocket.com/dark-mode-in-react-an-in-depth-guide/) (logrocket.com)
+* [How to Create a Theme-able Static Website](https://www.freecodecamp.org/news/design-a-themeable-static-website/) (freecodecamp.org)
 
 ### Inspiration
 * [Josh W. Comeau](https://joshwcomeau.com/) (joshwcomeau.com)
