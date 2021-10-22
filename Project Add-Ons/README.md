@@ -7,6 +7,9 @@
 
 ### Tutorials
 * [How to Add Search to a React App with Fuse.js](https://www.freecodecamp.org/news/how-to-add-search-to-a-react-app-with-fuse-js/) (freecodecamp.org)
+* [Adding Search with Algolia](https://www.gatsbyjs.com/docs/adding-search-with-algolia) (gatsbyjs.com)
+* [Algolia, Firebase, and Next.js — Let's build a search app](https://youtu.be/ZNVAPpTpKpk) (youtube.com)
+* [Browser Event Listeners in React for Search and Autocomplete](https://youtu.be/1vOeRDYKb0g) (youtube.com)
 
 ### Inspiration
 Know of any good examples? Submit a Pull Request!
