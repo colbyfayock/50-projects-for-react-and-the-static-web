@@ -15,7 +15,7 @@
 ## Conference Schedule
 
 ### Toolbox
-* [faker.js](https://github.com/Marak/Faker.js) (github.com)
+* [faker.js](https://fakerjs.dev/) (fakerjs.dev)
 
 ### Tutorials
 
