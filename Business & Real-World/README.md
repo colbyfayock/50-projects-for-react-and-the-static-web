@@ -18,7 +18,7 @@
 * [faker.js](https://fakerjs.dev/) (fakerjs.dev)
 
 ### Tutorials
-* [create-massive-random-data-using-faker-js](https://medium.com/nerd-for-tech/create-massive-random-data-using-faker-js-f47909f6fab5) (medium.com)
+* [Create Massive Random Data Using faker.js](https://medium.com/nerd-for-tech/create-massive-random-data-using-faker-js-f47909f6fab5) (medium.com)
 * [Getting Started With Faker.js: A Developer’s Guide](https://www.testim.io/blog/getting-started-with-faker-js/) (testim.io)
 * [How to Generate Fake Data in Javascript Using Faker.js](https://www.youtube.com/watch?v=SeHT0ee4waU) (youtube.com)
 
